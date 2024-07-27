@@ -5,15 +5,9 @@ name: Go
 
 on:
   push:
-<<<<<<< HEAD
-    branches: ["Aula_5"]
+    branches: ["Aula_1"]
   pull_request:
-    branches: ["Aula_5"]
-=======
-    branches: [ "Aula_1" ]
-  pull_request:
-    branches: [ "Aula_1" ]
->>>>>>> 6168c6b07b5cf8875c63178f60d28eb243bef890
+    branches: ["Aula_1"]
 
 jobs:
   build:
